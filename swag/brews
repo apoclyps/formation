@@ -1,10 +1,12 @@
 asciinema
 awscli
 aws-sam-cli
+dep
 git
 groovy
 gradle
 hugo
+httpie
 nvm
 maven
 pipenv
