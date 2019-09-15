@@ -9,6 +9,7 @@ hugo
 httpie
 nvm
 maven
+mysql
 pipenv
 postgresql
 prisma
