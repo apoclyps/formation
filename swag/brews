@@ -5,6 +5,7 @@ dep
 git
 groovy
 gradle
+heroku
 hugo
 httpie
 nvm
@@ -17,6 +18,6 @@ pyenv
 rbenv
 sqlite3
 tldr
-watcman
+watchman
 wget
 zlib
