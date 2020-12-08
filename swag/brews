@@ -13,7 +13,6 @@ mysql
 minikube
 pipenv
 postgresql
-prisma
 pyenv
 rbenv
 sqlite3
